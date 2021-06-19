@@ -1,0 +1,2 @@
+#!/bin/bash
+echo grep -v {a..z}{a..z}$'\n'
